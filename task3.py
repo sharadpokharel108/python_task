@@ -1,3 +1,5 @@
+# Flatten a nested list of arbitrary depth.
+
 def flatten(my_list):
 	final_list=[]
 	for x in my_list:
